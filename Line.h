@@ -19,6 +19,8 @@ class Line
 public:
     Node *n1, *n2;
 
+    Node n;
+
     Line2 line;
 
     //double length() {return}
